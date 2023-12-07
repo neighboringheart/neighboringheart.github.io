@@ -118,7 +118,7 @@ a:hover, a:focus {
         font-size: 1.6em;
     }
     .list {
-        padding-left: 0.5em;
+        padding-left: 0;
     }
     .fics {
         margin-left: 0;
