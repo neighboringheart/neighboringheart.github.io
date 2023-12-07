@@ -133,4 +133,7 @@ a:hover, a:focus {
     .container {
         margin: 1em 1.5em 1.5em 1em !important;
     }
+    .list .heart {
+        margin-right: 10px;
+    }
 }
