@@ -124,6 +124,6 @@ a:hover, a:focus {
         margin-left: 0;
     }
     .section2 {
-        padding-right: 0 !important;
+        padding-right: 1em !important;
     }
 }
