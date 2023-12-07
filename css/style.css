@@ -123,4 +123,7 @@ a:hover, a:focus {
     .fics {
         margin-left: 0;
     }
+    .section2 {
+        padding-right: 0 !important;
+    }
 }
