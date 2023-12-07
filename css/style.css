@@ -113,3 +113,11 @@ a:hover, a:focus {
         width: auto !important;
     }
 }
+@media (max-width: 500px) {
+    h1 {
+        font-size: 1.6em;
+    }
+    .list {
+        padding-left: 0.5em;
+    }
+}
