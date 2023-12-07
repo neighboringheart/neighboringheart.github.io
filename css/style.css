@@ -120,4 +120,7 @@ a:hover, a:focus {
     .list {
         padding-left: 0.5em;
     }
+    .fics {
+        margin-left: 0;
+    }
 }
